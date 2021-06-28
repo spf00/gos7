@@ -33,7 +33,6 @@ Helpers:
 Supported communication
 -----------------
 *   TCP
-*   Serial (PPI, MPI) (under construction)
 
 How to:
 ----------
@@ -75,7 +74,6 @@ References
 ----------
 - libnodave http://libnodave.sourceforge.net/
 - snap7 http://snap7.sourceforge.net/ 
-- tarm serial library https://github.com/tarm/serial
 - Simatic Open TCP/IP Communication via Industrial Ethernet from Siemens(doku)
 - SIMATIC NET FDL-Programmierschnittstelle (doku)
 - Elementary Data Types from Siemens (doku)
